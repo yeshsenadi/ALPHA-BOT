@@ -31,8 +31,8 @@
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@ALPHAOFFICIAL/ALPHA-Qr-Session-By-Achi-Fernando?v=1)
 
 ### Deploy Page
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-BOT)
-</div>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://he (https://heroku.com/deploy?template=https://github.com/ALPHA-OFFICIAL-TEAM/ALPHA-BOT) roku.com/deploy?template=
+</div>https://github.com/yeshsenadi/ALPHA-BOT
 
 ----
 
